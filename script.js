@@ -1,10 +1,10 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
+    "https://www.temi.co.uk/wp-content/Catoon-Gif.gif",    // 0 normal
+    "https://media.tenor.com/zu2kSLpZ3qIAAAAM/sad-upset.gif",  // 1 confused
+    "https://media.tenor.com/74PlfOXmxIMAAAAM/phuoctino.gif",             // 2 pleading
     "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
+    "https://media.tenor.com/htdPUJMv2NIAAAAM/sad.gif",       // 4 sadder
+    "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY2kzZnd6dmNoM3U4Z2t1a3V5Nm9obzc4d2Jqbjk1M2NlaXc4bGI4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lR3pWtb80Hz22UjrYj/giphy.gif",             // 5 devastated
     "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
     "https://www.whoa.in/201604-Org/3210-hug-me-kiss-me-love-me-cute-emoji-animated-cartoon-gif.gif"  // 7 crying runaway
 ]
